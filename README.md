@@ -1,4 +1,4 @@
-# data-parsing-py
+# Website Data Parsing
 <ins>There are three different forms of web data that I have decided to parse:<ins>
 
 The first is a public API of video game statistics, specifically from the game *Animal Crossing: New Horizons*. I am specifically parsing a specific statistic on the game (the selling price of types of fishes) and comparing them to each other. I also create a graph of the statistics of the selling prices, which is at the end of the .ipynb notebook.
